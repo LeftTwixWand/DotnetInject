@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31521.260
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotnetInject.SourceGenerator", "DotnetInject.SourceGenerator\DotnetInject.SourceGenerator.csproj", "{FCCAB665-ED09-4C42-99C5-1CFF151F09D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotnetInject.Common", "DotnetInject.Common\DotnetInject.Common.csproj", "{DCD34608-441D-4BAA-9932-F57D0568B249}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FCCAB665-ED09-4C42-99C5-1CFF151F09D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCCAB665-ED09-4C42-99C5-1CFF151F09D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCCAB665-ED09-4C42-99C5-1CFF151F09D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCCAB665-ED09-4C42-99C5-1CFF151F09D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCD34608-441D-4BAA-9932-F57D0568B249}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCD34608-441D-4BAA-9932-F57D0568B249}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCD34608-441D-4BAA-9932-F57D0568B249}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCD34608-441D-4BAA-9932-F57D0568B249}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {08024B4D-0ACD-489A-A72A-7451A43F56FF}
+	EndGlobalSection
+EndGlobal
